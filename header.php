@@ -13,18 +13,17 @@ if(isset($message)){
 
 ?>
 
-<header class="header">
+<header class="header black">
 
    <div class="flex">
 
-      <a href="admin_page.php" class="logo">Groco<span>.</span></a>
+      <a href="admin_page.php" class="logo"><img src="./images/LOGO.png" alt="Logo" height="60px"></a>
 
       <nav class="navbar">
-         <a href="home.php">home</a>
-         <a href="shop.php">shop</a>
-         <a href="orders.php">orders</a>
-         <a href="about.php">about</a>
-         <a href="contact.php">contact</a>
+         <a href="home.php">HOME</a>
+         <a href="orders.php">ORDERS</a>
+         <a href="about.php">ABOUT US</a>
+         <a href="contact.php">CONTACT</a>
       </nav>
 
       <div class="icons">
